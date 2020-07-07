@@ -1,0 +1,61 @@
+.container{
+    margin-bottom: 100px;
+}
+a,p{
+    color:grey;
+}
+.container .slide{
+    margin-top: -70px;
+}
+.orange-bg{
+    background-color:#fceae8 ;
+    border-radius:10px;
+}
+.carousel-item {
+    padding: 20px 40px;
+}
+
+.buy-now-btn{
+    background-color: black;
+    color: white;
+    border:none;
+    border-radius:8px;
+    padding:9px 25px;
+    cursor: pointer;
+
+
+}
+.see-more-btn{
+    color: orange;
+    text-decoration: none;
+    position: relative;
+    margin-bottom: 40px;
+}
+.phone-img{
+    height: auto;
+    width:300px;
+}
+#categoriesh1 h1{
+    padding-bottom: 15px;
+    border-bottom: 5px solid orange;
+    border-radius: 2px;
+   
+    
+}
+.img{
+    box-shadow: -8px 5px 5px gray;
+    border-radius:10px;
+    width:200px;
+    padding:30px;
+    margin-top: 40px;
+}
+
+
+
+.carousel-indicators li{
+    background-color: orange;
+}
+#cat-parle-img{
+    width:100%;
+    height: auto;
+}
